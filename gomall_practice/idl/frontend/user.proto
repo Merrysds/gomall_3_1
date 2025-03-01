@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+package user;       //文件中定义的消息类型和服务将被分配到 frontend.home 包下
+
+option go_package = "/user";   //，生成的 Go 代码将会放在一个名为 frontend/home 的 Go 包下。
+
+message RegisterReq{
+    string email=1;
+    string password=2;
+    string password_confirm=3;
+}
+
+message RegisterResp{
+    int32 user_id=1;
+}
+
+message LoginReq{
+    string email=1;
+    string password=2;
+}
+
+message LoginResp{
+    int32 user_id=1;
+}
+
+service UserService {
+   rpc Register(RegisterReq) returns(RegisterResp) {}
+   rpc Login(LoginReq) returns(LoginResp) {}
+}

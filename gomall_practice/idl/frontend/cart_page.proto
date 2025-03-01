@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+package frontend.cart;       //文件中定义的消息类型和服务将被分配到 frontend.auth 包下
+option go_package = "frontend/cart";   //，生成的 Go 代码将会放在一个名为 frontend/auth 的 Go 包下。
+
+import "idl/api.proto";
+import "idl/frontend/common.proto";
+
+
+service CartService {
+ 
+  rpc GetCart(common.Empty) returns (common.Empty) {
+    option (api.get) = "/cart";
+  }
+
+  rpc AddCartItem(AddCartItemReq) returns (common.Empty) {
+    option (api.post) = "/cart";
+  }
+}
+
+message AddCartItemReq{
+  uint32 product_id=1 [(api.form)="productId"];
+  int32 product_num=2 [(api.form)="productNum"];
+}

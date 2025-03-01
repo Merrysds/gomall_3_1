@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package frontend.common;       //文件中定义的消息类型和服务将被分配到 frontend.auth 包下
+
+option go_package = "frontend/common";   
+
+message Empty{}

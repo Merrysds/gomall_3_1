@@ -1,0 +1,11 @@
+{{define "error"}}
+{{template "header" .}}
+<div class="container">
+    <div class="alert alert-danger" role="alert">
+        {{.ErrorMessage}}
+    </div>
+    <a href="/sign-in" class="btn btn-primary">去登录</a>
+    <a href="/sign-up" class="btn btn-secondary">去注册</a>
+</div>
+{{template "footer" .}}
+{{end}}

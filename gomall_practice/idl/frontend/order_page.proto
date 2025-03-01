@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package frontend.order;       //文件中定义的消息类型和服务将被分配到 frontend.home 包下
+
+option go_package = "frontend/order";   //，生成的 Go 代码将会放在一个名为 frontend/home 的 Go 包下。
+
+import "idl/api.proto";
+import "idl/frontend/common.proto";
+
+service OrderService {
+   rpc OrderList(common.Empty) returns(common.Empty) {
+      option (api.get) = "/order";
+   }
+}
