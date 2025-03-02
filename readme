@@ -1,3 +1,3 @@
-This project was completed on March 2, 2025, and was developed with reference to the CloudWeGo tutorial series available at this link. Compared to the tutorial, a JWT token distribution module has been added.
+This project was completed on March 2, 2025, and was developed with reference to the CloudWeGo tutorial series available at 【https://search.bilibili.com/all?vt=07961508&keyword=cloudwego&from_source=webtop_search&spm_id_from=333.1007&search_source=3】. Compared to the tutorial, a JWT token distribution module has been added.
 
 The project provides functionalities such as product browsing, shopping cart management, order creation, payment processing, and user management.
