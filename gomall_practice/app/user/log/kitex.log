@@ -1,0 +1,96 @@
+{"level":"info","msg":"KITEX: server listen at addr=[::]:8888","time":"2025-02-09T19:19:24+08:00"}
+{"level":"error","msg":"KITEX: received error and exit: error=Put \"http://127.0.0.1:2379/v1/agent/service/register\": dial tcp 127.0.0.1:2379: connectex: No connection could be made because the target machine actively refused it.","time":"2025-02-09T19:19:26+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=[::]:8888","time":"2025-02-09T19:21:04+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-09T19:21:48+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-09T20:54:16+08:00"}
+{"level":"error","msg":"KITEX: received error and exit: error=Put \"http://127.0.0.1:8500/v1/agent/service/register\": dial tcp 127.0.0.1:8500: connectex: No connection could be made because the target machine actively refused it.","time":"2025-02-09T20:54:17+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-09T20:59:31+08:00"}
+{"level":"error","msg":"KITEX: received error and exit: error=Put \"http://127.0.0.1:8500/v1/agent/service/register\": dial tcp 127.0.0.1:8500: connectex: No connection could be made because the target machine actively refused it.","time":"2025-02-09T20:59:32+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-09T20:59:45+08:00"}
+{"level":"error","msg":"KITEX: received error and exit: error=Put \"http://127.0.0.1:8500/v1/agent/service/register\": dial tcp 127.0.0.1:8500: connectex: No connection could be made because the target machine actively refused it.","time":"2025-02-09T20:59:46+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-11T11:06:48+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-11T11:10:50+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-11T20:35:07+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-11T21:07:03+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-11T21:27:06+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-11T21:32:17+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-11T21:50:01+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-11T21:58:07+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-12T10:51:45+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-12T12:35:04+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-12T13:49:39+08:00"}
+{"level":"error","msg":"KITEX: processing request error, remoteService=, remoteAddr=192.168.3.60:57360, error=biz error: crypto/bcrypt: hashedPassword is not the hash of the given password","time":"2025-02-12T13:52:04+08:00"}
+{"level":"error","msg":"KITEX: processing request error, remoteService=, remoteAddr=192.168.3.60:57374, error=biz error: password not match","time":"2025-02-12T13:52:28+08:00"}
+{"level":"error","msg":"KITEX: processing request error, remoteService=, remoteAddr=192.168.3.60:57383, error=default codec read failed: read tcp 192.168.3.60:8888-\u003e192.168.3.60:57383: wsarecv: An existing connection was forcibly closed by the remote host.","time":"2025-02-12T13:53:24+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-12T15:08:06+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-12T15:10:13+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-13T21:28:23+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.3.60:8888","time":"2025-02-13T21:37:39+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.43.149:8888","time":"2025-02-19T14:03:25+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.43.149:8881","time":"2025-02-19T14:20:03+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.43.149:8881","time":"2025-02-19T16:30:02+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.43.149:8881","time":"2025-02-19T17:04:54+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=218.194.41.34:8881","time":"2025-02-20T16:13:23+08:00"}
+{"level":"error","msg":"KITEX: processing request error, remoteService=, remoteAddr=218.194.41.34:14449, error=default codec read failed: read tcp 218.194.41.34:8881-\u003e218.194.41.34:14449: wsarecv: An existing connection was forcibly closed by the remote host.","time":"2025-02-20T16:14:49+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=218.194.41.34:8881","time":"2025-02-20T21:24:56+08:00"}
+{"level":"error","msg":"KITEX: processing request error, remoteService=, remoteAddr=218.194.41.34:32251, error=default codec read failed: read tcp 218.194.41.34:8881-\u003e218.194.41.34:32251: wsarecv: An existing connection was forcibly closed by the remote host.","time":"2025-02-20T21:34:32+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.214.112:8881","time":"2025-02-23T18:50:08+08:00"}
+{"level":"error","msg":"KITEX: processing request error, remoteService=, remoteAddr=113.54.214.112:24066, error=biz error: record not found","time":"2025-02-23T18:54:53+08:00"}
+{"level":"error","msg":"KITEX: processing request error, remoteService=, remoteAddr=113.54.214.112:24079, error=default codec read failed: read tcp 113.54.214.112:8881-\u003e113.54.214.112:24079: wsarecv: An existing connection was forcibly closed by the remote host.","time":"2025-02-23T18:55:44+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=222.197.172.120:8881","time":"2025-02-25T15:08:58+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.43.149:8881","time":"2025-02-25T21:31:31+08:00"}
+{"level":"error","msg":"KITEX: processing request error, remoteService=, remoteAddr=192.168.43.149:48627, error=biz error: record not found","time":"2025-02-25T21:33:06+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=218.194.37.195:8881","time":"2025-02-26T10:19:08+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=218.194.47.182:8881","time":"2025-02-27T11:27:55+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=218.194.47.182:8881","time":"2025-02-27T11:38:16+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.209.105:8881","time":"2025-02-27T19:31:05+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.209.105:8881","time":"2025-02-27T20:51:56+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.209.105:8881","time":"2025-02-27T21:19:02+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=113.54.209.105:8666, error=biz error: Error 1062 (23000): Duplicate entry '202421140136@std.uestc.edu.cn' for key 'user.idx_user_email'","time":"2025-02-27T21:22:57+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=113.54.209.105:8718, error=biz error: record not found","time":"2025-02-27T21:23:12+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.43.149:8881","time":"2025-02-27T23:01:28+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=211.83.108.161:8881","time":"2025-02-28T18:58:42+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=211.83.108.161:8881","time":"2025-02-28T19:15:45+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=211.83.108.161:8734, error=biz error: record not found","time":"2025-02-28T19:16:25+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=211.83.108.161:8778, error=biz error: crypto/bcrypt: hashedPassword is not the hash of the given password","time":"2025-02-28T19:16:40+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=211.83.108.161:8803, error=biz error: Error 1062 (23000): Duplicate entry 'orange_chenzi@hdu.edu.cn' for key 'user.idx_user_email'","time":"2025-02-28T19:16:47+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=211.83.108.161:8881","time":"2025-02-28T19:57:31+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=211.83.108.161:8881","time":"2025-02-28T20:13:13+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=211.83.108.161:30554, error=biz error: record not found","time":"2025-02-28T20:37:10+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=211.83.108.161:8881","time":"2025-02-28T20:44:12+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=211.83.108.161:32122, error=biz error: record not found","time":"2025-02-28T20:44:25+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=211.83.108.161:8881","time":"2025-02-28T20:48:50+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=211.83.108.161:33157, error=biz error: record not found","time":"2025-02-28T20:49:24+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=211.83.108.161:8881","time":"2025-02-28T20:50:55+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=211.83.108.161:33520, error=biz error: record not found","time":"2025-02-28T20:51:23+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=211.83.108.161:8881","time":"2025-02-28T20:52:50+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=211.83.108.161:34044, error=biz error: record not found","time":"2025-02-28T20:53:36+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=211.83.108.161:8881","time":"2025-02-28T21:23:54+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=211.83.108.161:32806, error=biz error: Error 1062 (23000): Duplicate entry 'orange_chenzi@hdu.edu.cn' for key 'user.idx_user_email'","time":"2025-02-28T21:26:33+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=211.83.108.161:8881","time":"2025-02-28T21:37:12+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=211.83.108.161:35052, error=biz error: crypto/bcrypt: hashedPassword is not the hash of the given password","time":"2025-02-28T21:38:10+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=211.83.108.161:35084, error=biz error: crypto/bcrypt: hashedPassword is not the hash of the given password","time":"2025-02-28T21:38:20+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.43.149:8881","time":"2025-02-28T23:03:55+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.43.149:8881","time":"2025-02-28T23:09:09+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.43.149:8881","time":"2025-02-28T23:21:50+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=192.168.43.149:53246, error=biz error: record not found","time":"2025-02-28T23:23:07+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=192.168.43.149:54419, error=biz error: record not found","time":"2025-02-28T23:29:01+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.43.149:8881","time":"2025-02-28T23:52:29+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=192.168.43.149:8881","time":"2025-02-28T23:57:42+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T10:11:54+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T10:20:00+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T10:24:34+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T10:52:08+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T10:57:00+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T11:09:23+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T11:11:51+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=113.54.201.96:10359, error=biz error: crypto/bcrypt: hashedPassword is not the hash of the given password","time":"2025-03-01T11:12:30+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T11:19:02+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T11:22:08+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T11:36:27+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T11:44:30+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T11:52:52+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T12:09:47+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T12:13:28+08:00"}
+{"level":"info","msg":"KITEX: server listen at addr=113.54.201.96:8881","time":"2025-03-01T12:21:26+08:00"}
+{"level":"error","msg":"KITEX: processing gRPC request error, remoteAddr=113.54.201.96:22244, error=biz error: crypto/bcrypt: hashedPassword is not the hash of the given password","time":"2025-03-01T15:47:05+08:00"}
